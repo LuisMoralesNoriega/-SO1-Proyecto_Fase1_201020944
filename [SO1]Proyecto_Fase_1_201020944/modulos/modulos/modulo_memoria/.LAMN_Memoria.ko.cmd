@@ -1,0 +1,1 @@
+cmd_/home/luis/Documentos/modulo_memoria/LAMN_Memoria.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/luis/Documentos/modulo_memoria/LAMN_Memoria.ko /home/luis/Documentos/modulo_memoria/LAMN_Memoria.o /home/luis/Documentos/modulo_memoria/LAMN_Memoria.mod.o

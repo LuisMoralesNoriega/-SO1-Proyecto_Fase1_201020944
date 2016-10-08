@@ -1,0 +1,1 @@
+cmd_/home/luis/Documentos/modulo_procesos/LAMN_Procesos.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/luis/Documentos/modulo_procesos/LAMN_Procesos.ko /home/luis/Documentos/modulo_procesos/LAMN_Procesos.o /home/luis/Documentos/modulo_procesos/LAMN_Procesos.mod.o
